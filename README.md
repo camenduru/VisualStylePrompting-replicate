@@ -15,7 +15,7 @@ https://arxiv.org/abs/2402.12974
 https://curryjung.github.io/VisualStylePrompt/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-15 141117](https://github.com/camenduru/VisualStylePrompting-replicate/assets/54370274/eb574e8a-1e5a-49d9-8d6b-16e75620a06b)
 
 ### 🏢 Sponsor
 https://replicate.com
